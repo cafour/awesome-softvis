@@ -18,8 +18,8 @@
 
 ## Behavior
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - A stack trace visualization.
+- [🔬speedscope](https://www.speedscope.app/) - Web-based flamegraph visualizer.
 
 
 ## Evolution
