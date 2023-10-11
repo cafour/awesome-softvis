@@ -5,24 +5,26 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Structure](#structure)
+- [Behavior](#behavior)
+- [Evolution](#evolution)
 
 
-## Section
+## Structure
 
-About this section. Optional. Keep this short and focus on the list.
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Behavior
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
-## Another Section
+## Evolution
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Gource](https://gource.io/) - Animated graphs of changes in a version-controlled repo.
 
 
 ## Contribute
