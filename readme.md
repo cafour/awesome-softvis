@@ -8,6 +8,7 @@
 - [Structure](#structure)
 - [Behavior](#behavior)
 - [Evolution](#evolution)
+- [Contribute](#contribute)
 
 
 ## Structure
