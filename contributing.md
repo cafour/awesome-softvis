@@ -6,10 +6,8 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Ensure your pull request adheres to the following guidelines:
 
-- Use the [template](pull_request_template.md).
-- Tools and papers must be functional. Do not add tools that are deprecated, abandoned, or broken.
-- And this as well
-- And don't forget to check this
+- The tool/framework/library you suggest must be functional. Do not add tools that are deprecated, abandoned, or broken.
+- The paper/article you suggest must be freely and publicly available.
 
 Thank you for your suggestions!
 
