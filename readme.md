@@ -17,6 +17,8 @@
 - [npmgraph.js](https://npmgraph.js.org/) - Dependencies of npm packages as directed graphs.
 - [dependency-cruiser](https://www.npmjs.com/package/dependency-cruiser) - Dependencies between JS/TS/etc. modules.
 - [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - _Which modules take up the most of my bundle?_
+- [Software Galaxies](https://anvaka.github.io/pm) - Huge 3D graphs of software packages.
+- [C4 Model](https://c4model.com/) - Notation for software architecture.
 
 
 ## Behavior
